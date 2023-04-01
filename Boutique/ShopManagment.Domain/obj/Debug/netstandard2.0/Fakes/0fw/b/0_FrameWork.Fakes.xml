@@ -1,0 +1,305 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>0_FrameWork.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:_0_FrameWork.Application.Fakes.ShimOperationResult">
+            <summary>Shim type of _0_FrameWork.Application.OperationResult</summary>
+        </member>
+        <member name="M:_0_FrameWork.Application.Fakes.ShimOperationResult.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:_0_FrameWork.Application.Fakes.ShimOperationResult.#ctor(_0_FrameWork.Application.OperationResult)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:_0_FrameWork.Application.Fakes.ShimOperationResult.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.ShimOperationResult.AllInstances.FailedString">
+            <summary>Sets the shim of OperationResult.Failed(OperationResult this, String message)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.ShimOperationResult.AllInstances.IsSucceddedGet">
+            <summary>Sets the shim of OperationResult.get_IsSuccedded(OperationResult this)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.ShimOperationResult.AllInstances.IsSucceddedSetBoolean">
+            <summary>Sets the shim of OperationResult.set_IsSuccedded(OperationResult this, Boolean value)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.ShimOperationResult.AllInstances.MessageGet">
+            <summary>Sets the shim of OperationResult.get_Message(OperationResult this)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.ShimOperationResult.AllInstances.MessageSetString">
+            <summary>Sets the shim of OperationResult.set_Message(OperationResult this, String value)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.ShimOperationResult.AllInstances.SucceddeString">
+            <summary>Sets the shim of OperationResult.Succedde(OperationResult this, String message)</summary>
+        </member>
+        <member name="M:_0_FrameWork.Application.Fakes.ShimOperationResult.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:_0_FrameWork.Application.Fakes.ShimOperationResult.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.ShimOperationResult.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.ShimOperationResult.Constructor">
+            <summary>Sets the shim of OperationResult.OperationResult(OperationResult this)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.ShimOperationResult.FailedString">
+            <summary>Sets the shim of OperationResult.Failed(OperationResult this, String message)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.ShimOperationResult.IsSucceddedGet">
+            <summary>Sets the shim of OperationResult.get_IsSuccedded(OperationResult this)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.ShimOperationResult.IsSucceddedSetBoolean">
+            <summary>Sets the shim of OperationResult.set_IsSuccedded(OperationResult this, Boolean value)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.ShimOperationResult.MessageGet">
+            <summary>Sets the shim of OperationResult.get_Message(OperationResult this)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.ShimOperationResult.MessageSetString">
+            <summary>Sets the shim of OperationResult.set_Message(OperationResult this, String value)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.ShimOperationResult.SucceddeString">
+            <summary>Sets the shim of OperationResult.Succedde(OperationResult this, String message)</summary>
+        </member>
+        <member name="T:_0_FrameWork.Application.Fakes.ShimValidationMessages">
+            <summary>Shim type of _0_FrameWork.Application.ValidationMessages</summary>
+        </member>
+        <member name="M:_0_FrameWork.Application.Fakes.ShimValidationMessages.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:_0_FrameWork.Application.Fakes.ShimValidationMessages.#ctor(_0_FrameWork.Application.ValidationMessages)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:_0_FrameWork.Application.Fakes.ShimValidationMessages.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="M:_0_FrameWork.Application.Fakes.ShimValidationMessages.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:_0_FrameWork.Application.Fakes.ShimValidationMessages.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.ShimValidationMessages.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.ShimValidationMessages.Constructor">
+            <summary>Sets the shim of ValidationMessages.ValidationMessages(ValidationMessages this)</summary>
+        </member>
+        <member name="T:_0_FrameWork.Application.Fakes.StubOperationResult">
+            <summary>Stub type of _0_FrameWork.Application.OperationResult</summary>
+        </member>
+        <member name="M:_0_FrameWork.Application.Fakes.StubOperationResult.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.StubOperationResult.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:_0_FrameWork.Application.Fakes.StubOperationResult.InitializeStub">
+            <summary>Initializes a new instance of type StubOperationResult</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.StubOperationResult.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.StubOperationResult.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:_0_FrameWork.Application.Fakes.StubValidationMessages">
+            <summary>Stub type of _0_FrameWork.Application.ValidationMessages</summary>
+        </member>
+        <member name="M:_0_FrameWork.Application.Fakes.StubValidationMessages.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.StubValidationMessages.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:_0_FrameWork.Application.Fakes.StubValidationMessages.InitializeStub">
+            <summary>Initializes a new instance of type StubValidationMessages</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.StubValidationMessages.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:_0_FrameWork.Application.Fakes.StubValidationMessages.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:_0_FrameWork.Domain.Fakes.ShimEntityBase">
+            <summary>Shim type of _0_FrameWork.Domain.EntityBase</summary>
+        </member>
+        <member name="M:_0_FrameWork.Domain.Fakes.ShimEntityBase.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:_0_FrameWork.Domain.Fakes.ShimEntityBase.#ctor(_0_FrameWork.Domain.EntityBase)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:_0_FrameWork.Domain.Fakes.ShimEntityBase.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:_0_FrameWork.Domain.Fakes.ShimEntityBase.AllInstances.CreationDateGet">
+            <summary>Sets the shim of EntityBase.get_CreationDate(EntityBase this)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Domain.Fakes.ShimEntityBase.AllInstances.CreationDateSetDateTime">
+            <summary>Sets the shim of EntityBase.set_CreationDate(EntityBase this, DateTime value)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Domain.Fakes.ShimEntityBase.AllInstances.IdGet">
+            <summary>Sets the shim of EntityBase.get_Id(EntityBase this)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Domain.Fakes.ShimEntityBase.AllInstances.IdSetInt64">
+            <summary>Sets the shim of EntityBase.set_Id(EntityBase this, Int64 value)</summary>
+        </member>
+        <member name="M:_0_FrameWork.Domain.Fakes.ShimEntityBase.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:_0_FrameWork.Domain.Fakes.ShimEntityBase.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:_0_FrameWork.Domain.Fakes.ShimEntityBase.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:_0_FrameWork.Domain.Fakes.ShimEntityBase.Constructor">
+            <summary>Sets the shim of EntityBase.EntityBase(EntityBase this)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Domain.Fakes.ShimEntityBase.CreationDateGet">
+            <summary>Sets the shim of EntityBase.get_CreationDate(EntityBase this)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Domain.Fakes.ShimEntityBase.CreationDateSetDateTime">
+            <summary>Sets the shim of EntityBase.set_CreationDate(EntityBase this, DateTime value)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Domain.Fakes.ShimEntityBase.IdGet">
+            <summary>Sets the shim of EntityBase.get_Id(EntityBase this)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Domain.Fakes.ShimEntityBase.IdSetInt64">
+            <summary>Sets the shim of EntityBase.set_Id(EntityBase this, Int64 value)</summary>
+        </member>
+        <member name="T:_0_FrameWork.Domain.Fakes.StubEntityBase">
+            <summary>Stub type of _0_FrameWork.Domain.EntityBase</summary>
+        </member>
+        <member name="M:_0_FrameWork.Domain.Fakes.StubEntityBase.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:_0_FrameWork.Domain.Fakes.StubEntityBase.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:_0_FrameWork.Domain.Fakes.StubEntityBase.InitializeStub">
+            <summary>Initializes a new instance of type StubEntityBase</summary>
+        </member>
+        <member name="P:_0_FrameWork.Domain.Fakes.StubEntityBase.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:_0_FrameWork.Domain.Fakes.StubEntityBase.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:_0_FrameWork.Domain.Fakes.StubIRepository`2">
+            <summary>Stub type of _0_FrameWork.Domain.IRepository&lt;Tkey, T&gt;</summary>
+        </member>
+        <member name="M:_0_FrameWork.Domain.Fakes.StubIRepository`2.#ctor">
+            <summary>Initializes a new instance of type StubIRepository</summary>
+        </member>
+        <member name="F:_0_FrameWork.Domain.Fakes.StubIRepository`2.CreateT1">
+            <summary>Sets the stub of IRepository`2.Create(IRepository`2 this, !1 entity)</summary>
+        </member>
+        <member name="F:_0_FrameWork.Domain.Fakes.StubIRepository`2.ExistsExpressionOfFuncOfT1Boolean">
+            <summary>Sets the stub of IRepository`2.Exists(IRepository`2 this, Expression`1 expression)</summary>
+        </member>
+        <member name="F:_0_FrameWork.Domain.Fakes.StubIRepository`2.Get">
+            <summary>Sets the stub of IRepository`2.Get(IRepository`2 this)</summary>
+        </member>
+        <member name="F:_0_FrameWork.Domain.Fakes.StubIRepository`2.GetT0">
+            <summary>Sets the stub of IRepository`2.Get(IRepository`2 this, !0 id)</summary>
+        </member>
+        <member name="F:_0_FrameWork.Domain.Fakes.StubIRepository`2.SaveChanges">
+            <summary>Sets the stub of IRepository`2.SaveChanges(IRepository`2 this)</summary>
+        </member>
+        <member name="M:_0_FrameWork.Domain.Fakes.StubIRepository`2._0_FrameWork#Domain#IRepository{Tkey,T}#Create(`1)">
+            <summary>Sets the stub of IRepository`2.Create(IRepository`2 this, !1 entity)</summary>
+        </member>
+        <member name="M:_0_FrameWork.Domain.Fakes.StubIRepository`2._0_FrameWork#Domain#IRepository{Tkey,T}#Exists(System.Linq.Expressions.Expression{System.Func{`1,System.Boolean}})">
+            <summary>Sets the stub of IRepository`2.Exists(IRepository`2 this, Expression`1 expression)</summary>
+        </member>
+        <member name="M:_0_FrameWork.Domain.Fakes.StubIRepository`2._0_FrameWork#Domain#IRepository{Tkey,T}#Get(`0)">
+            <summary>Sets the stub of IRepository`2.Get(IRepository`2 this, !0 id)</summary>
+        </member>
+        <member name="M:_0_FrameWork.Domain.Fakes.StubIRepository`2._0_FrameWork#Domain#IRepository{Tkey,T}#Get">
+            <summary>Sets the stub of IRepository`2.Get(IRepository`2 this)</summary>
+        </member>
+        <member name="M:_0_FrameWork.Domain.Fakes.StubIRepository`2._0_FrameWork#Domain#IRepository{Tkey,T}#SaveChanges">
+            <summary>Sets the stub of IRepository`2.SaveChanges(IRepository`2 this)</summary>
+        </member>
+        <member name="T:_0_FrameWork.Infrastructure.Fakes.ShimRepositoryBase`2">
+            <summary>Shim type of _0_FrameWork.Infrastructure.RepositoryBase&lt;Tkey, T&gt;</summary>
+        </member>
+        <member name="M:_0_FrameWork.Infrastructure.Fakes.ShimRepositoryBase`2.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:_0_FrameWork.Infrastructure.Fakes.ShimRepositoryBase`2.#ctor(_0_FrameWork.Infrastructure.RepositoryBase{`0,`1})">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="T:_0_FrameWork.Infrastructure.Fakes.ShimRepositoryBase`2.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:_0_FrameWork.Infrastructure.Fakes.ShimRepositoryBase`2.AllInstances.CreateT1">
+            <summary>Sets the shim of RepositoryBase`2.Create(RepositoryBase`2 this, !1 entity)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Infrastructure.Fakes.ShimRepositoryBase`2.AllInstances.ExistsExpressionOfFuncOfT1Boolean">
+            <summary>Sets the shim of RepositoryBase`2.Exists(RepositoryBase`2 this, Expression`1 expression)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Infrastructure.Fakes.ShimRepositoryBase`2.AllInstances.Get">
+            <summary>Sets the shim of RepositoryBase`2.Get(RepositoryBase`2 this)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Infrastructure.Fakes.ShimRepositoryBase`2.AllInstances.GetT0">
+            <summary>Sets the shim of RepositoryBase`2.Get(RepositoryBase`2 this, !0 id)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Infrastructure.Fakes.ShimRepositoryBase`2.AllInstances.SaveChanges">
+            <summary>Sets the shim of RepositoryBase`2.SaveChanges(RepositoryBase`2 this)</summary>
+        </member>
+        <member name="M:_0_FrameWork.Infrastructure.Fakes.ShimRepositoryBase`2.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:_0_FrameWork.Infrastructure.Fakes.ShimRepositoryBase`2.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:_0_FrameWork.Infrastructure.Fakes.ShimRepositoryBase`2.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:_0_FrameWork.Infrastructure.Fakes.ShimRepositoryBase`2.Bind(_0_FrameWork.Domain.IRepository{`0,`1})">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:_0_FrameWork.Infrastructure.Fakes.ShimRepositoryBase`2.ConstructorDbContext">
+            <summary>Sets the shim of RepositoryBase`2.RepositoryBase`2(RepositoryBase`2 this, DbContext context)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Infrastructure.Fakes.ShimRepositoryBase`2.CreateT1">
+            <summary>Sets the shim of RepositoryBase`2.Create(RepositoryBase`2 this, !1 entity)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Infrastructure.Fakes.ShimRepositoryBase`2.ExistsExpressionOfFuncOfT1Boolean">
+            <summary>Sets the shim of RepositoryBase`2.Exists(RepositoryBase`2 this, Expression`1 expression)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Infrastructure.Fakes.ShimRepositoryBase`2.Get">
+            <summary>Sets the shim of RepositoryBase`2.Get(RepositoryBase`2 this)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Infrastructure.Fakes.ShimRepositoryBase`2.GetT0">
+            <summary>Sets the shim of RepositoryBase`2.Get(RepositoryBase`2 this, !0 id)</summary>
+        </member>
+        <member name="P:_0_FrameWork.Infrastructure.Fakes.ShimRepositoryBase`2.SaveChanges">
+            <summary>Sets the shim of RepositoryBase`2.SaveChanges(RepositoryBase`2 this)</summary>
+        </member>
+        <member name="T:_0_FrameWork.Infrastructure.Fakes.StubRepositoryBase`2">
+            <summary>Stub type of _0_FrameWork.Infrastructure.RepositoryBase&lt;Tkey, T&gt;</summary>
+        </member>
+        <member name="M:_0_FrameWork.Infrastructure.Fakes.StubRepositoryBase`2.#ctor(Microsoft.EntityFrameworkCore.DbContext)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="P:_0_FrameWork.Infrastructure.Fakes.StubRepositoryBase`2.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="M:_0_FrameWork.Infrastructure.Fakes.StubRepositoryBase`2.InitializeStub">
+            <summary>Initializes a new instance of type StubRepositoryBase</summary>
+        </member>
+        <member name="P:_0_FrameWork.Infrastructure.Fakes.StubRepositoryBase`2.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:_0_FrameWork.Infrastructure.Fakes.StubRepositoryBase`2.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>

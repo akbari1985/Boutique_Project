@@ -1,0 +1,17 @@
+D:\Boutique\Code\Boutique\ShopManagment.Infrastruct.EFCore\bin\Debug\netstandard2.0\ShopManagment.Infrastruct.EFCore.deps.json
+D:\Boutique\Code\Boutique\ShopManagment.Infrastruct.EFCore\bin\Debug\netstandard2.0\ShopManagment.Infrastruct.EFCore.dll
+D:\Boutique\Code\Boutique\ShopManagment.Infrastruct.EFCore\obj\Debug\netstandard2.0\ShopManagment.Infrastruct.EFCore.AssemblyInfoInputs.cache
+D:\Boutique\Code\Boutique\ShopManagment.Infrastruct.EFCore\obj\Debug\netstandard2.0\ShopManagment.Infrastruct.EFCore.AssemblyInfo.cs
+D:\Boutique\Code\Boutique\ShopManagment.Infrastruct.EFCore\obj\Debug\netstandard2.0\ShopManagment.Infrastruct.EFCore.csprojAssemblyReference.cache
+D:\Boutique\Code\Boutique\ShopManagment.Infrastruct.EFCore\bin\Debug\netstandard2.0\ShopManagment.Infrastruct.EFCore.pdb
+D:\Boutique\Code\Boutique\ShopManagment.Infrastruct.EFCore\bin\Debug\netstandard2.0\0_FrameWork.dll
+D:\Boutique\Code\Boutique\ShopManagment.Infrastruct.EFCore\bin\Debug\netstandard2.0\ShopManagment.Application.Contracts.dll
+D:\Boutique\Code\Boutique\ShopManagment.Infrastruct.EFCore\bin\Debug\netstandard2.0\ShopManagment.Domain.dll
+D:\Boutique\Code\Boutique\ShopManagment.Infrastruct.EFCore\bin\Debug\netstandard2.0\ShopManagment.Domain.pdb
+D:\Boutique\Code\Boutique\ShopManagment.Infrastruct.EFCore\bin\Debug\netstandard2.0\0_FrameWork.pdb
+D:\Boutique\Code\Boutique\ShopManagment.Infrastruct.EFCore\bin\Debug\netstandard2.0\ShopManagment.Application.Contracts.pdb
+D:\Boutique\Code\Boutique\ShopManagment.Infrastruct.EFCore\obj\Debug\netstandard2.0\ShopManagment.Infrastruct.EFCore.csproj.CoreCompileInputs.cache
+D:\Boutique\Code\Boutique\ShopManagment.Infrastruct.EFCore\obj\Debug\netstandard2.0\ShopManagment.Infrastruct.EFCore.csproj.CopyComplete
+D:\Boutique\Code\Boutique\ShopManagment.Infrastruct.EFCore\obj\Debug\netstandard2.0\ShopManagment.Infrastruct.EFCore.dll
+D:\Boutique\Code\Boutique\ShopManagment.Infrastruct.EFCore\obj\Debug\netstandard2.0\ShopManagment.Infrastruct.EFCore.pdb
+D:\Boutique\Code\Boutique\ShopManagment.Infrastruct.EFCore\bin\Debug\netstandard2.0\0_FrameWork.Fakes.dll

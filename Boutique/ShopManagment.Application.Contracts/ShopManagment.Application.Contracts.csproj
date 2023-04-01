@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <UserSecretsId>7f9383f4-9eca-450e-9c96-6adb9321d780</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\0_FrameWork\0_FrameWork.csproj" />
+  </ItemGroup>
+
+</Project>

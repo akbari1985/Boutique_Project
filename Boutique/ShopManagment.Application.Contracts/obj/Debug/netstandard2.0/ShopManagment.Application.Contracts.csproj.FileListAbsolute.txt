@@ -1,0 +1,12 @@
+D:\Boutique\Code\Boutique\ShopManagment.Application.Contracts\bin\Debug\netstandard2.0\ShopManagment.Application.Contracts.deps.json
+D:\Boutique\Code\Boutique\ShopManagment.Application.Contracts\bin\Debug\netstandard2.0\ShopManagment.Application.Contracts.dll
+D:\Boutique\Code\Boutique\ShopManagment.Application.Contracts\bin\Debug\netstandard2.0\ShopManagment.Application.Contracts.pdb
+D:\Boutique\Code\Boutique\ShopManagment.Application.Contracts\bin\Debug\netstandard2.0\0_FrameWork.dll
+D:\Boutique\Code\Boutique\ShopManagment.Application.Contracts\bin\Debug\netstandard2.0\0_FrameWork.pdb
+D:\Boutique\Code\Boutique\ShopManagment.Application.Contracts\obj\Debug\netstandard2.0\ShopManagment.Application.Contracts.csprojAssemblyReference.cache
+D:\Boutique\Code\Boutique\ShopManagment.Application.Contracts\obj\Debug\netstandard2.0\ShopManagment.Application.Contracts.AssemblyInfoInputs.cache
+D:\Boutique\Code\Boutique\ShopManagment.Application.Contracts\obj\Debug\netstandard2.0\ShopManagment.Application.Contracts.AssemblyInfo.cs
+D:\Boutique\Code\Boutique\ShopManagment.Application.Contracts\obj\Debug\netstandard2.0\ShopManagment.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\Boutique\Code\Boutique\ShopManagment.Application.Contracts\obj\Debug\netstandard2.0\ShopManagment.Application.Contracts.csproj.CopyComplete
+D:\Boutique\Code\Boutique\ShopManagment.Application.Contracts\obj\Debug\netstandard2.0\ShopManagment.Application.Contracts.dll
+D:\Boutique\Code\Boutique\ShopManagment.Application.Contracts\obj\Debug\netstandard2.0\ShopManagment.Application.Contracts.pdb

@@ -1,0 +1,9 @@
+D:\Boutique\Code\Boutique\0_FrameWork\bin\Debug\netstandard2.0\0_FrameWork.deps.json
+D:\Boutique\Code\Boutique\0_FrameWork\bin\Debug\netstandard2.0\0_FrameWork.dll
+D:\Boutique\Code\Boutique\0_FrameWork\bin\Debug\netstandard2.0\0_FrameWork.pdb
+D:\Boutique\Code\Boutique\0_FrameWork\obj\Debug\netstandard2.0\0_FrameWork.csprojAssemblyReference.cache
+D:\Boutique\Code\Boutique\0_FrameWork\obj\Debug\netstandard2.0\0_FrameWork.AssemblyInfoInputs.cache
+D:\Boutique\Code\Boutique\0_FrameWork\obj\Debug\netstandard2.0\0_FrameWork.AssemblyInfo.cs
+D:\Boutique\Code\Boutique\0_FrameWork\obj\Debug\netstandard2.0\0_FrameWork.dll
+D:\Boutique\Code\Boutique\0_FrameWork\obj\Debug\netstandard2.0\0_FrameWork.pdb
+D:\Boutique\Code\Boutique\0_FrameWork\obj\Debug\netstandard2.0\0_FrameWork.csproj.CoreCompileInputs.cache
